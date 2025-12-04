@@ -102,9 +102,9 @@ Compare product prices and insights visually
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Website Architecture (Flow Chart)
 
-https://github.com/user-attachments/assets/51d7e9f3-d738-49e5-a193-62897620c62a
+![Flow Chart](https://github.com/Prana5040/product-analysis-tool/blob/main/Media/Data%20Flow%20diagram%20Product%20Analysis%20Tool.png)
 
 ---
 
