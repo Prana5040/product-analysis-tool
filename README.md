@@ -86,19 +86,19 @@ App will be live at → `http://127.0.0.1:5000`
 ### 🔎 Home Page
 
 Users can search and select platforms (Amazon, Myntra, Flipkart)
-![Home Page](https://github.com/pranayguptag/product-analysis-tool/blob/main/Media/Home.png)
+![Home Page](https://github.com/prana5040/product-analysis-tool/blob/main/Media/Home.png)
 
 ### 📋 Product Results
 
 Clean tabular view of products scraped from platforms
-![Products](https://github.com/pranayguptag/product-analysis-tool/blob/main/Media/Products1.png)
-![Products](https://github.com/pranayguptag/product-analysis-tool/blob/main/Media/Products2.png)
+![Products](https://github.com/prana5040/product-analysis-tool/blob/main/Media/Products1.png)
+![Products](https://github.com/prana5040/product-analysis-tool/blob/main/Media/Products2.png)
 
 ### 📊 Visual Analysis
 
 Compare product prices and insights visually
-![Visuals](https://github.com/pranayguptag/product-analysis-tool/blob/main/Media/Visuals1.png)
-![Visuals](https://github.com/pranayguptag/product-analysis-tool/blob/main/Media/Visuals2.png)
+![Visuals](https://github.com/prana5040/product-analysis-tool/blob/main/Media/Visuals1.png)
+![Visuals](https://github.com/prana5040/product-analysis-tool/blob/main/Media/Visuals2.png)
 
 ---
 
@@ -114,7 +114,7 @@ https://github.com/user-attachments/assets/51d7e9f3-d738-49e5-a193-62897620c62a
 
 * 🎓 B.Tech Student @ NIET, Greater Noida
 * 🌐 [LinkedIn](https://www.linkedin.com/in/pranay05gupta/)
-* 💻 [GitHub](https://github.com/pranayguptag)
+* 💻 [GitHub](https://github.com/prana5040)
 
 ---
 
